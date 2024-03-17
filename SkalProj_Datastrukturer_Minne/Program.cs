@@ -1,5 +1,6 @@
 ﻿using System;
 
+//Kopia från klass repo till mitt.
 namespace SkalProj_Datastrukturer_Minne
 {
     class Program
