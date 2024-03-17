@@ -1,5 +1,6 @@
 ﻿using System;
 
+//
 namespace SkalProj_Datastrukturer_Minne
 {
     class Program
